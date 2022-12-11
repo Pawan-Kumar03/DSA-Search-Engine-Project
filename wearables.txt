@@ -1,0 +1,113 @@
+Black Paints
+Brown Paints
+Blue Paints
+White Paints
+Yellow Paints
+Black Shirts
+Brown Shirts
+Blue Shirts
+beanie
+belt
+bereta cap
+vest
+chain
+coat
+dinner jacket
+dress
+frock,
+jacket
+jersey
+jewellery
+jogging suit
+necklace
+needle
+nightdress
+jumper
+raincoat
+scarf
+shade
+shawl
+sweatshirt
+t-shirt
+tie
+top
+uniform
+watch
+wedding ring
+zip
+zip fastener
+boxer shorts
+casual dress
+cufflinks
+earrings
+formal dress
+gloves
+leather jacket
+miniskirt
+nightgown
+overcoat
+pajamas
+pantyhose/tights
+pastel
+patched up
+plain
+pleated skirt
+pyjamas
+threadbare
+shorts
+slippers
+smart, elegant
+sober
+socks
+stockings
+straight skirt
+suitable
+swimming cap
+swimming trunks
+the collar
+the lining
+thread
+tights
+tracksuit
+triped
+undershirt
+cotton
+flannel
+fur
+lace
+leather
+nylon
+satin
+silk
+suede
+tweed
+velvet
+wool
+Shoes
+sneakers
+Ankle boots
+ballerinas
+boots
+clogs
+cowboy boots
+flat heel shoes
+flat heels
+flip-flops
+heel
+high heel boots
+high heels
+hiking boots
+leather boots
+loafer
+low heels
+platform shoes
+polish
+rain boots
+rubber boots
+sandals
+shiny
+shoe size
+shoes with rope soles
+slippers
+stiletto
+wedge shoes
